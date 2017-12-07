@@ -1,7 +1,7 @@
 const possibleErrors = {
   'no-await-in-loop': 2,
   'no-cond-assign': 2,
-  'no-console': 1,
+  'no-console': 2,
   'no-constant-condition': 2,
   'no-control-regex': 1,
   'no-debugger': 2,

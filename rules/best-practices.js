@@ -1,5 +1,5 @@
 const bestPractices = {
-  'semi': 0,
+  'semi': 1,
   'complexity': ['error', { 'max': 2 }],
   'curly': 1,
   'default-case': 1,
