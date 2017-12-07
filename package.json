@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-essentials",
+  "version": "1.0.0",
+  "description": "A bare bones, un-opinionated eslint config standard",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-naicker/eslint-config-essentials.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Sebastian Naicker <djinnwheeler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastian-naicker/eslint-config-essentials/issues"
+  },
+  "homepage": "https://github.com/sebastian-naicker/eslint-config-essentials#readme"
+}
