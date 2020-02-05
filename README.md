@@ -17,6 +17,8 @@ but it also makes me not enjoy developing, and the reason we're developers, is b
 
 With that in mind I really hope, that this could serve as a helping base template for all your linting needs :)
 
+https://img.shields.io/npm/dt/eslint-config-essentials
+
 ## Prerequisites
 * **Node ^7.0** [nodejs.org](https://nodejs.org)
 
